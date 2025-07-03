@@ -3,12 +3,12 @@ h1 {
     top: 0;
     left: 0;
     right: 0;
-    width: 240px;
+    width: 340px;
     height: 32px;
     box-sizing: border-box;
     color: #ffffff;
     margin: 0;
-    padding: 8px 6px;
+    padding: 8px 12px;
     font-size: 14px;
     z-index: 10000000;
     border-bottom: 1px solid #12598a;
