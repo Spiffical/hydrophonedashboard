@@ -1,0 +1,8 @@
+*debug*
+.venv
+*.pyc
+__pycache__
+.env
+credentials.json
+token.json
+Hydrophone.html
